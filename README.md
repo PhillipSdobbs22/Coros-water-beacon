@@ -5,9 +5,6 @@
 
 <p align="center"><img src="overboard.gif" alt="Animation: a watch detaches on a boat deck, sinks into a lake, crosses the trigger depth at 1.57 m, and the backlight floods the dial in a repeating double flash" width="720"></p>
 
-<p align="center"><strong><a href="https://phillipsdobbs22.github.io/Coros-water-beacon/">Try the interactive version &rarr;</a></strong><br>
-<sub>Drag the water depth and trigger depth and watch the beacon go quiet.</sub></p>
-
 Firmware and a simulation test bench for a feature I wanted to exist after
 I lost a watch in a lake on 19 September 2026: **if the watch goes into the
 water and sinks, light the backlight and flash it until someone finds it or
