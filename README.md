@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/32447310/README.md)
+[README.md](https://github.com/user-attachments/files/32447319/README.md)
 # Water Recovery Mode — depth-triggered backlight beacon
 
 [![build](https://github.com/PhillipSdobbs22/coros-water-beacon/actions/workflows/ci.yml/badge.svg)](https://github.com/PhillipSdobbs22/coros-water-beacon/actions/workflows/ci.yml)
